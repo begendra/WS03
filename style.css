@@ -65,7 +65,7 @@ input[type="submit"] {
 }
 
 .transition-button:hover {
-    background-color: lightcoral;
+    background-color: rgb(128, 240, 163);
 }
 
 
@@ -119,5 +119,5 @@ input[type="submit"] {
     position: absolute;
     left: 0;
     top: 0;
-    color: darkblue;
+    color: rgb(2, 2, 120);
 }
